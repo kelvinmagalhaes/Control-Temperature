@@ -1,2 +1,2 @@
 # Control-Temperature
-![title](Relatorio_projeto_Estufa.pdf)
+[embed](Relatorio_projeto_Estufa.pdf)[/embed]
