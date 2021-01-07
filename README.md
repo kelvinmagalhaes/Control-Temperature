@@ -1,2 +1,2 @@
 # Control-Temperature
-[embed](Relatorio_projeto_Estufa.pdf)[/embed]
+<embed src = "Relatorio_projeto_Estufa.pdf" >
